@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"send",
+				"sendEmail"
+			],
+			[
+				"stat",
+				"stats"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"list",
+				"listings"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"cue",
+				"currentAccountId"
+			],
+			[
+				"current",
+				"currentAccountId"
+			],
+			[
+				"acco",
+				"account"
+			],
+			[
+				"curre",
+				"currentAccountId"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"and",
+				"andWhereIn"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"instakl",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/diego/Public/www/test/elixir/todo"
+	],
+	"file_history":
+	[
+		"/home/diego/Public/www/marketingone/moa/app/config/config.yml",
+		"/home/diego/Public/www/marketingone/moa/app/config/services.yml",
+		"/home/diego/Public/www/marketingone/moa/src/Services/GnupgEncrypterService.php",
+		"/home/diego/Public/www/marketingone/moa/src/AppBundle/Controller/DefaultController.php",
+		"/home/diego/Public/www/marketingone/moa/app/AppKernel.php",
+		"/home/diego/Public/www/marketingone/moa/src/ProteccionBundle/Entity/User.php",
+		"/home/diego/Public/www/marketingone/moa/.gitignore",
+		"/home/diego/Public/www/marketingone/moa/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/LuhnValidator.php",
+		"/home/diego/Public/www/marketingone/moa/vendor/symfony/symfony/src/Symfony/Component/Validator/ConstraintValidator.php",
+		"/home/diego/Public/www/marketingone/moa/vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Luhn.php",
+		"/home/diego/Public/www/marketingone/moa/app/config/parameters.yml",
+		"/home/diego/Public/www/marketingone/moa/app/config/routing.yml",
+		"/home/diego/Public/www/marketingone/moa/vendor/friendsofsymfony/user-bundle/Resources/config/doctrine-mapping/User.orm.xml",
+		"/home/diego/Public/www/marketingone/moa/moa.sublime-project",
+		"/home/diego/Public/www/marketingone/moa/src/ProteccionBundle/Validator/Constrains/DniValidator.php",
+		"/home/diego/Public/www/marketingone/moa/src/ProteccionBundle/Repository/SellerRepository.php",
+		"/home/diego/Public/www/marketingone/moa/src/ProteccionBundle/Repository/ProductRepository.php",
+		"/home/diego/Public/www/inmediative/maestro/pre/main.scss",
+		"/home/diego/Public/www/inmediative/maestro/site/cerveza.html",
+		"/home/diego/Public/www/inmediative/maestro/site/.bowerrc",
+		"/home/diego/Public/www/inmediative/maestro/pre/font/_font.scss",
+		"/home/diego/Public/www/inmediative/maestro/maestro.sublime-project",
+		"/home/diego/Public/www/gfr/listamax/console/stats-to-clients/email-stats.phtml",
+		"/home/diego/Public/www/gfr/listamax/console/stats-to-clients/stats-to-clients.php",
+		"/home/diego/Public/www/gfr/listamax/console/stats-to-clients1/email-stats.phtml",
+		"/home/diego/Public/www/gfr/listamax/console/stats-to-clients1/stats-to-clients1.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/vendors/Doctrine/Doctrine/Connection/Statement.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/vendors/Doctrine/Doctrine/Adapter/Statement.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/lib/Console.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/lib/Yammon.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/yammon.php",
+		"/home/diego/Public/www/gfr/listamax/vendors/dmp/listamax-api-client/ListaMax/Api/Client.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/vendors/Doctrine/Doctrine/Query.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/doctrine.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/vendors/Doctrine/Doctrine/Manager.php",
+		"/home/diego/Public/www/gfr/listamax/lib/Accounts/Importer.php",
+		"/home/diego/Public/www/gfr/listamax/console/console.php",
+		"/home/diego/Public/www/gfr/listamax/models/classes/Listing.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/vendors/Doctrine/Doctrine/Connection/Profiler.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/lib/Doctrine/Collection/Yammon.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/lib/Doctrine/Query/Yammon.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/lib/Doctrine/Table/Yammon.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/lib/Doctrine/Record/Yammon.php",
+		"/home/diego/Public/www/gfr/listamax/public/js/wdCalendar/php/dbconfig.php",
+		"/home/diego/Public/www/gfr/listamax/models/classes/generated/BaseSettingRule.php",
+		"/home/diego/Public/www/gfr/listamax/console/console",
+		"/home/diego/Public/www/gfr/listamax/models/classes/Account.php",
+		"/home/diego/Public/www/gfr/listamax/models/classes/SettingRule.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/vendors/Doctrine/Doctrine/Query/Abstract.php",
+		"/home/diego/Public/www/gfr/listamax/yammon/lib/Mail.php",
+		"/home/diego/Public/www/gfr/listamax/config/database.php",
+		"/home/diego/Public/www/gfr/listamax/config/config.php",
+		"/home/diego/Public/www/gfr/listamax/config/config.api.php",
+		"/home/diego/Public/www/gfr/listamax/stats-to-clients.log",
+		"/home/diego/Public/www/gfr/listamax/console/stats-to-clients/stats-to-clients1.php",
+		"/home/diego/Public/www/gfr/listamax/vendors/dmp/listamax-api-client/ListaMax/Api/Client/Exception/Connection.php",
+		"/home/diego/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"  \n",
+			"recipient",
+			"Doctrine_Manager",
+			"getInstance",
+			"sub",
+			"a__id",
+			"listings",
+			"row['stats']",
+			"doctrine",
+			"d",
+			"do",
+			"doctr",
+			"getConnection",
+			"getEntityManager",
+			"ResultSetMapping",
+			"createNativeQuery",
+			"listamax.com",
+			"ORM",
+			"getSQLCount",
+			"getSQL",
+			"getSql",
+			"ListaMax_Api_Client_Exception_Connection"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"a2__id",
+			"account",
+			"getSqlQuery"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 27.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "todo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"luhn",
+				"vendor/symfony/symfony/src/Symfony/Component/Validator/Constraints/Luhn.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Public/www/cdr/prototype/ cdr-prototype.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
