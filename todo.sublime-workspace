@@ -51,6 +51,45 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "web/router.ex",
+			"settings":
+			{
+				"buffer_size": 597,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "defmodule Todo.HelloController do\n\tuse Todo.Web, :controller\n\n\tdef index(conn, _params) do\n\t\trender conn, \"index.html\"\n\tend\n\n\tdef show(conn, %{\"messenger\"}) do\n\t\t\n\tend\nend",
+			"file": "web/controllers/hello_controller.ex",
+			"file_size": 127,
+			"file_write_time": 131234533305276924,
+			"settings":
+			{
+				"buffer_size": 171,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "web/views/hello_view.ex",
+			"settings":
+			{
+				"buffer_size": 52,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "web/templates/hello/index.html.eex",
+			"settings":
+			{
+				"buffer_size": 66,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -96,10 +135,22 @@
 	},
 	"expanded_folders":
 	[
-		"/home/diego/Public/www/test/elixir/todo"
+		"/home/diego/Public/www/test/elixir/todo",
+		"/home/diego/Public/www/test/elixir/todo/config",
+		"/home/diego/Public/www/test/elixir/todo/lib",
+		"/home/diego/Public/www/test/elixir/todo/lib/todo",
+		"/home/diego/Public/www/test/elixir/todo/web",
+		"/home/diego/Public/www/test/elixir/todo/web/channels",
+		"/home/diego/Public/www/test/elixir/todo/web/controllers",
+		"/home/diego/Public/www/test/elixir/todo/web/models",
+		"/home/diego/Public/www/test/elixir/todo/web/templates",
+		"/home/diego/Public/www/test/elixir/todo/web/templates/hello",
+		"/home/diego/Public/www/test/elixir/todo/web/views"
 	],
 	"file_history":
 	[
+		"/home/diego/Public/www/test/elixir/todo/web/controllers/page_controller.ex",
+		"/home/diego/Public/www/test/elixir/todo/deps/phoenix/lib/phoenix/router/scope.ex",
 		"/home/diego/Public/www/marketingone/moa/app/config/config.yml",
 		"/home/diego/Public/www/marketingone/moa/app/config/services.yml",
 		"/home/diego/Public/www/marketingone/moa/src/Services/GnupgEncrypterService.php",
@@ -217,8 +268,119 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "web/router.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "web/controllers/hello_controller.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+						],
+						"settings":
+						{
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "web/views/hello_view.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "web/templates/hello/index.html.eex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Elixir/Syntaxes/HTML (EEx).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],

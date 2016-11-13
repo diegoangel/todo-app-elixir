@@ -17,6 +17,12 @@ defmodule Todo.Router do
     pipe_through :browser # Use the default browser stack
 
     get "/", PageController, :index
+
+    get "/dashboard", DashboardController, :index
+
+    get "/dashboard/:messenger", DashboardController, :show
+
+    resources "/todo", TodoController, only: [:index]
   end
 
   # Other scopes may use custom stacks.
